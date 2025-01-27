@@ -28,7 +28,7 @@ Ini adalah program pencarian password yang memanfaatkan **brute force** dan **se
 
 1. **Clone repositori:**
     ```bash
-    git clone https://github.com/Dimas-Alif/password-cracker.git
+    git clone https://github.com/Dimas-Alif/Brute-Force-Password-Cracker.git
     cd password-cracker
     ```
 
